@@ -12,6 +12,7 @@ The data used in the project has been provided by a company called ‘Figure Eig
 •	Presenting findings on a web app
 
 the components of the web app have been provided by Udacity, therfore the project will leverage on this existing app to further deploy additional visualizations 
+https://video.udacity-data.com/topher/2018/September/5b967cda_disaster-response-project2/disaster-response-project2.png![image](https://user-images.githubusercontent.com/56232345/148792222-76f0c81e-fffe-455c-9fa4-398750ef49fa.png)
 
 
 FILE DESCRIPTION
